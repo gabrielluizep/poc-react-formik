@@ -18,3 +18,7 @@ a {
   color: #bd93f9;
   transition: 300ms;
 }
+
+input {
+  color: black;
+}

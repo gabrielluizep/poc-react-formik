@@ -1,4 +1,3 @@
-import { Welcome } from './Welcome'
-import { Profile } from './Profile'
+import { Login } from './Login'
 
-export { Welcome, Profile }
+export { Login }
