@@ -3,7 +3,6 @@
   padding: 0;
 
   font-family: sans-serif;
-  color: #f8f8f2;
 }
 
 body {
@@ -17,8 +16,4 @@ a {
 .active {
   color: #bd93f9;
   transition: 300ms;
-}
-
-input {
-  color: black;
 }
